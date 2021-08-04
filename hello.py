@@ -63,3 +63,8 @@ import random
 
 x = random.randrange(1, 10)
 print(x)
+
+
+print("###--list--###")
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
